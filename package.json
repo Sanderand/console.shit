@@ -1,0 +1,18 @@
+{
+  "name": "console.shit",
+  "version": "1.0.0",
+  "description": "Logs \"shit\" to the console",
+  "main": "main.js",
+  "typings": "typings.d.ts",
+  "author": "Andre Sander <hello@andresander.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sanderand/console.shit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sanderand/console.shit/issues",
+    "email": "hello@andresander.com"
+  },
+  "license": "MIT",
+  "devDependencies": {}
+}
