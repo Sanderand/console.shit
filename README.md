@@ -9,6 +9,8 @@ npm i console.shit
 
 ## Usage
 ```
+import 'console.shit';
+
 console.shit();
 > 'SHIT'
 ```
