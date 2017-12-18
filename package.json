@@ -1,6 +1,6 @@
 {
   "name": "console.shit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Logs \"shit\" to the console",
   "main": "main.js",
   "typings": "typings.d.ts",
