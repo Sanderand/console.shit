@@ -1,6 +1,6 @@
 {
   "name": "console.shit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Logs \"shit\" to the console",
   "main": "main.js",
   "typings": "typings.d.ts",
@@ -14,5 +14,8 @@
     "email": "hello@andresander.com"
   },
   "license": "MIT",
-  "devDependencies": {}
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.mjs"
+  }
 }
