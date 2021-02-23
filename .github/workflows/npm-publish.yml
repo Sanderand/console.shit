@@ -4,6 +4,7 @@
 name: console.shit
 
 on:
+  workflow_dispatch:
   release:
     types: [created]
 
