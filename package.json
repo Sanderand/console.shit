@@ -14,5 +14,8 @@
     "email": "hello@andresander.com"
   },
   "license": "MIT",
-  "devDependencies": {}
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.mjs"
+  }
 }

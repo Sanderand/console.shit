@@ -1,7 +1,2 @@
-'use strict';
-
-console.shit = function shit() {
-  console.log('SHIT');
-};
-
-export default console.shit;
+c = console;
+c.shit = function shit() { c.log('SHIT'); };
